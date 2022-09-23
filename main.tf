@@ -15,7 +15,7 @@ terraform {
     organization = "nitin-terraform-demos"
 
     workspaces {
-      name = "demo-github"
+      name = "demo-github-actions"
     }
   }
 }
